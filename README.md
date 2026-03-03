@@ -3,7 +3,7 @@
 ## **KULLANILAN LAYOUT YÖNTEMLERİ:**
 - Flexbox : Header, Filter Bar, ve Footer alanında kullanıldı. Elemanların yatay hizada sıralanması ve aralarında boşlukların yönetilmesi amaçlandı.
 - CSS Grid : Ürün Kartlarının listelendiği bölümde kullanıldı. 8 ürün kartını satır ve sütun bazlı düzenli dizilimi amaçlandı.
-- Sticky Position : Header alanında kullanıldı. Header'in sayfa kaydırılsa dahi tepede "yapışkan" olması amaçlandı.
+- Sticky Position : Header alanında kullanıldı. Header'in sayfa kaydırılsa dahi tepede *"yapışkan"* olması amaçlandı.
 
 ## **BREAKPOİNTLER**
 - 1024px ve üzeri : Masaüstü görünümünde ürün grid'i 4 sütun şeklinde.
@@ -20,5 +20,6 @@
 - Mobil cihazlarda Header bölümündeki linklerin tasarım bozulmadan alt satıra düşürülmesi ve doğru hizalanması kısmındaki *flex-direction* kullanımının nerede ve nasıl yapılacağını öğrenirken zorlandım.
 - HTML ve CSS'in beraber yürütülmesi ilk anlarda kafa karıştırı olduğunu düşündüm ve .html ile .css'i birbirine bağlarken zorlandım.
 - Tasarımın CSS' tarafında daha düzenli hale getirilmesi için HTML tarafında bir sürü class kullandım ve bunları birbirinden ayırmaya çalışırken sürekli yeni class açıp düzenlemek başlarda oldukça zordu.
+
 
 
